@@ -1,0 +1,8 @@
+D:\term 5\SPP\SPP_lab1\SPP_lab1\obj\Debug\SPP_lab1.csproj.AssemblyReference.cache
+D:\term 5\SPP\SPP_lab1\SPP_lab1\obj\Debug\SPP_lab1.csproj.SuggestedBindingRedirects.cache
+D:\term 5\SPP\SPP_lab1\SPP_lab1\obj\Debug\SPP_lab1.csproj.CoreCompileInputs.cache
+D:\term 5\SPP\SPP_lab1\SPP_lab1\bin\Debug\SPP_lab1.exe.config
+D:\term 5\SPP\SPP_lab1\SPP_lab1\bin\Debug\SPP_lab1.exe
+D:\term 5\SPP\SPP_lab1\SPP_lab1\bin\Debug\SPP_lab1.pdb
+D:\term 5\SPP\SPP_lab1\SPP_lab1\obj\Debug\SPP_lab1.exe
+D:\term 5\SPP\SPP_lab1\SPP_lab1\obj\Debug\SPP_lab1.pdb

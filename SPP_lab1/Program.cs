@@ -10,6 +10,7 @@ namespace SPP_lab1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("heelo");
         }
     }
 }
